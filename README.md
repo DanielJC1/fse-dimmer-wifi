@@ -64,7 +64,7 @@ Requiere Android 8.0 (API 26) o superior. Hay dos formas de obtener la app.
 
 ### Opción B: compilar desde el código fuente
 
-1. Abre `app-android/` en Android Studio.
+1. Descomprima y abra `app-android/` en Android Studio.
 2. Conecta el teléfono por USB con la depuración USB activada y pulsa **Run**.
 
 ### Uso (ambas opciones)
