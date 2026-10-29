@@ -5,7 +5,7 @@ Autor: Jiménez Chávez Daniel Orlando.
 
 El sistema regula de 0 a 100 % la potencia de una lámpara incandescente de 100 W (110–130 V) desde una app Android nativa (Kotlin). El Arduino UNO R4 WiFi opera como punto de acceso (AP) y servidor HTTP, y dispara un TRIAC mediante un módulo dimmer comercial con detección de cruce por cero.
 
-> **Advertencia de seguridad:** el módulo y la lámpara trabajan con 127 V de corriente alterna. Desconecta la clavija antes de tocar el cableado y no manipule el módulo energizado.
+> **Advertencia de seguridad:** el módulo y la lámpara trabajan con 127 V de corriente alterna. Desconecte la clavija antes de tocar el cableado y no manipule el módulo energizado.
 
 ## Requerimientos
 
