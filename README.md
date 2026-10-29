@@ -14,7 +14,7 @@ El sistema regula de 0 a 100 % la potencia de una lámpara incandescente de 100 
 - Módulo dimmer de luz AC de 1 canal JTDB-V2.0 (2W10 + 4N35 para el cruce por cero; MOC3053 + TRIAC BTA24-800B para el disparo): [enlace de compra](https://www.mercadolibre.com.mx/modulo-dimmer-de-luz-ac-control-potencia-1-canal/up/MLMU721185363)
 - Lámpara incandescente de 100 W (110–130 V), con socket y clavija.
 - Powerbank o cargador USB-C de 5 V para operación autónoma (o cable USB-C a la computadora).
-- Dispositivo Android 8.0 con WiFi.
+- Dispositivo Android 8.0+ con WiFi.
 
 ### Diagrama de conexiones
 
